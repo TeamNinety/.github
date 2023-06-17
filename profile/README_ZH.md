@@ -1,6 +1,4 @@
 ## 你好！ 👋
-[English](./README.md)
-
 你好！我们是 Team Ninety。
 
 ## 我们是谁？
