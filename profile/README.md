@@ -1,5 +1,5 @@
 # Hi there 👋
-[Chinese](./README_ZH.md)
+[Chinese](./profile/README_ZH.md)
 
 Hello! We are Team Ninety.
 
