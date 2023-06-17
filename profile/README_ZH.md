@@ -1,5 +1,5 @@
 ## 你好！ 👋
-[English](./README.md)
+[English](./profile/README.md)
 
 你好！我们是 Team Ninety。
 
