@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+[Chinese](./README_ZH.md)
+We are Team Ninety.
+
 
 <!--
 
