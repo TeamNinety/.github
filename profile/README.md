@@ -1,6 +1,13 @@
 # Hi there 👋
 [Chinese](./README_ZH.md)
-We are Team Ninety.
+
+Hello! We are Team Ninety.
+
+## Who we are?
+We are a group of DDLC lovers, and a small team of cnDDLC Mod.
+
+## Contact us
+Email: [team_ninety@outlook.com](mailto:team_ninety@outlook.com)
 
 
 <!--
