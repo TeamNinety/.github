@@ -15,8 +15,8 @@ We are a group of DDLC lovers, and a small team of cnDDLC Mod.
 - If you use QQ, you can [click here](https://pd.qq.com/s/6hwbngduj) to join our QQ channel.
 
 ## Contact us
-Email: [team_ninety@outlook.com](mailto:team_ninety@outlook.com)
-QQ Channel: [https://pd.qq.com/s/6hwbngduj](https://pd.qq.com/s/6hwbngduj)
+- Email: [team_ninety@outlook.com](mailto:team_ninety@outlook.com)
+- QQ Channel: [https://pd.qq.com/s/6hwbngduj](https://pd.qq.com/s/6hwbngduj)
 
 
 <!--

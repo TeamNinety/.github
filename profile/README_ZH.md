@@ -15,8 +15,8 @@
 - 同样的，如果你使用 QQ，你可以 [点击此处](https://pd.qq.com/s/6hwbngduj) 来加入我们的 QQ 频道；
 
 ## 联系我们
-电子邮件：[team_ninety@outlook.com](mailto:team_ninety@outlook.com)
-QQ 频道：[https://pd.qq.com/s/6hwbngduj](https://pd.qq.com/s/6hwbngduj)
+- 电子邮件：[team_ninety@outlook.com](mailto:team_ninety@outlook.com)
+- QQ 频道：[https://pd.qq.com/s/6hwbngduj](https://pd.qq.com/s/6hwbngduj)
 
 
 
