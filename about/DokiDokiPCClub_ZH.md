@@ -1,5 +1,6 @@
 ## 你好！
 这是一个关于 Doki Doki PC Club! 或者 DDPC 的文档。
+
 [回到简介](/profile/README_ZH.md)
 
 ### 背景故事
