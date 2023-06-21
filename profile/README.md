@@ -7,8 +7,7 @@ Hello! We are Team Ninety.
 We are a group of DDLC lovers, and a small team of cnDDLC Mod.
 
 ## What are we doing?
-- Doki Doki PC Club Mod.
-    [Click here to learn more](/about/DokiDokiPCClub_EN.md)
+- Doki Doki PC Club Mod.[Click here to learn more](/about/DokiDokiPCClub_EN.md)
 
 ## Join Us
 - You can email us at [team_ninety@outlook.com](mailto:team_ninety@outlook.com);

@@ -7,8 +7,7 @@
 我们是一群来自中国的 DDLC 爱好者，cnDDLC Mod 的一个小团队。
 
 ## 我们都在做些什么?
-- Doki Doki PC Club Mod.
-    [点击此处了解更多](/about/DokiDokiPCClub_ZH.md)
+- Doki Doki PC Club Mod.[点击此处了解更多](/about/DokiDokiPCClub_ZH.md)
 
 ## 加入我们
 - 你可以通过给 [team_ninety@outlook.com](mailto:team_ninety@outlook.com) 发送邮件来加入我们；
