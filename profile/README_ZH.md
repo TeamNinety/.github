@@ -1,11 +1,23 @@
 ## 你好！ 👋
+[English](/profile/README.md)
+
 你好！我们是 Team Ninety。
 
 ## 我们是谁？
 我们是一群来自中国的 DDLC 爱好者，cnDDLC Mod 的一个小团队。
 
+## 我们都在做些什么?
+- Doki Doki PC Club Mod.
+    [点击此处了解更多](/about/DokiDokiPCClub_ZN.md)
+
+## 加入我们
+- 你可以通过给 [team_ninety@outlook.com](mailto:team_ninety@outlook.com) 发送邮件来加入我们；
+- 同样的，如果你使用 QQ，你可以 [点击此处](https://pd.qq.com/s/6hwbngduj) 来加入我们的 QQ 频道；
+
 ## 联系我们
-[team_ninety@outlook.com](mailto:team_ninety@outlook.com)
+电子邮件：[team_ninety@outlook.com](mailto:team_ninety@outlook.com)
+QQ 频道：[https://pd.qq.com/s/6hwbngduj](https://pd.qq.com/s/6hwbngduj)
+
 
 
 <!--
