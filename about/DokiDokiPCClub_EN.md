@@ -1,5 +1,6 @@
 ## Hello!
 This is a document about Doki Doki PC Club! or DDPC.
+[Back to introduction](/profile/README.md)
 
 ### The Background of the Story
 The story happened in DDIS school.
