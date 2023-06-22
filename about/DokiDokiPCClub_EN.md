@@ -6,7 +6,7 @@ This is a document about Doki Doki PC Club! or DDPC.
 ### The Background of the Story
 The story happened in DDIS school.
 
-DDIS is the abbreviation of Darren Daniels Informatization Secondary School. It is the first public model school for informatization in the country, and it is divided into middle school and high school.
+DDIS is the abbreviation of Darren Daniels Informatization Secondary School. It is the first public model school for informatization in the country, and it is divided into junior high school and senior high school.
 
 Here, most of the facilities are computerized and connected to the core facilities of Darren Daniels Informatization Secondary School:
 
